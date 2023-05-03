@@ -74,14 +74,3 @@ margin-top: 20px;
 .education p:last-child {
 margin-bottom: 0;
 }
-#box {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  width: 100px;
-  height: 100px;
-  background-color: blue;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-}
